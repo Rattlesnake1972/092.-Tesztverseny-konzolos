@@ -1,0 +1,8 @@
+C:\Users\gratt\source\repos\tesztverseny\tesztverseny\bin\Debug\tesztverseny.exe.config
+C:\Users\gratt\source\repos\tesztverseny\tesztverseny\bin\Debug\tesztverseny.exe
+C:\Users\gratt\source\repos\tesztverseny\tesztverseny\bin\Debug\tesztverseny.pdb
+C:\Users\gratt\source\repos\tesztverseny\tesztverseny\obj\Debug\tesztverseny.csproj.AssemblyReference.cache
+C:\Users\gratt\source\repos\tesztverseny\tesztverseny\obj\Debug\tesztverseny.csproj.SuggestedBindingRedirects.cache
+C:\Users\gratt\source\repos\tesztverseny\tesztverseny\obj\Debug\tesztverseny.csproj.CoreCompileInputs.cache
+C:\Users\gratt\source\repos\tesztverseny\tesztverseny\obj\Debug\tesztverseny.exe
+C:\Users\gratt\source\repos\tesztverseny\tesztverseny\obj\Debug\tesztverseny.pdb
